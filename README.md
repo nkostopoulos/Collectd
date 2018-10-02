@@ -13,3 +13,7 @@ the port at the server.
 - RRDtool plugin: for RRDfiles  
   
 Interval: interval of data delivery.  
+  
+Required: sudo apt-get install collectd librrds-perl libconfig-general-perl libhtml-parser-perl libregexp-common-perl liburi-perl   libjson-perl restartd python nginx  
+  
+Help from: https://raymii.org/s/tutorials/Collectd_server_setup_tutorial_with_web_frontend.html  
