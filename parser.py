@@ -1,8 +1,6 @@
 import subprocess
-import os
 import sys
 import pty
-import time
 
 def sum(item):
     sum = 0
